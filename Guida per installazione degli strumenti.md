@@ -1,39 +1,44 @@
 # Guida all'installazione di .NET e C# 10
-## Introduzione
+### Introduzione
 In questa guida spiegherò come installare gli strumenti per lo sviluppo di C#.
 Strumenti che verranno installati:
-* .NET Framework
-* Visual Studio ed estensioni
+* .NET
+* Visual Studio Community
+  * Packages
+  * Estensioni
 * SQL Server
 
-## .NET
-### Installazione
+### .NET
+#### Installazione
 Scaricare ed installare l'ultima versione SDK di .NET
-[Sito Ufficiale Microsoft .NET](https://dotnet.microsoft.com/en-us/download)
+[Microsoft .NET Download](https://dotnet.microsoft.com/en-us/download)
+
 Controllare l'installazione da terminale eseguendo il comando
-```cmd
+```batch
 dotnet --list-sdks
 ```
+![](images/cmd_list_dotnet_sdk.png)
 
-`inserire immagine`
-## Visual Studio
-### Installazione
-### Download
-Reperire l'ultima versione dell'installer Visual Studio:
-[Visual Studio Download](https://visualstudio.microsoft.com/it/downloads/)
-`inserire immagine`
-### Impostazioni Installer
+
+### Visual Studio
+
+#### Download
+Scaricare dal link seguente l'ultima versione dell'installer di Visual Studio Community Edition:
+[Visual Studio Community Installer Download](https://visualstudio.microsoft.com/it/downloads/)
+
+![](images/visual_studio_download.png)
+#### Impostazioni Installer
 `Descrivere le varie impostazioni da selezionare`
 `inserire immagine`
 Selezionare lingua **English**[^1] (Inglese)
 `inserire immagine`
 
 
-## SQL Server
+### SQL Server
 
-## Altro
-Estensione per il riderect della documentazione
+### Altro
+Estensione per il riderect della documentazione csharp
 
 
 
-[^1]: L'inglese è **fortemente** indicato poichè le traduzioni sono fatte attraverso traduttori automatici poco affidabili
+[^1]: L'inglese è **fortemente** consigliato poichè le traduzioni sono fatte attraverso traduttori automatici poco affidabili
