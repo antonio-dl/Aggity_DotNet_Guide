@@ -41,4 +41,4 @@ Estensione per il riderect della documentazione csharp
 
 
 
-[^1]: L'inglese è **fortemente** consigliato poichè le traduzioni sono fatte attraverso traduttori automatici poco affidabili
+[^1]: L'inglese è **fortemente** consigliato poichè le traduzioni sono fatte attraverso traduttori automatici poco affidabili.
