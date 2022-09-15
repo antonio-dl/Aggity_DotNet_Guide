@@ -11,8 +11,9 @@ Strumenti che verranno installati:
 ### .NET
 #### Installazione
 Scaricare ed installare l'ultima versione SDK di .NET
-[Microsoft .NET Download](https://dotnet.microsoft.com/en-us/download)
+[Microsoft .NET SDK Download](https://dotnet.microsoft.com/en-us/download)
 
+![](images/dotnet_sdk_download.png)
 Controllare l'installazione da terminale eseguendo il comando
 ```batch
 dotnet --list-sdks
@@ -27,6 +28,8 @@ Scaricare dal link seguente l'ultima versione dell'installer di Visual Studio Co
 [Visual Studio Community Installer Download](https://visualstudio.microsoft.com/it/downloads/)
 
 ![](images/visual_studio_download.png)
+
+Aprire il file `VisualStudioSetup.exe` ed eseguire le istruzioni seguenti
 #### Impostazioni Installer
 `Descrivere le varie impostazioni da selezionare`
 `inserire immagine`
