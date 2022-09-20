@@ -21,7 +21,7 @@ Strumenti che verranno installati:
   * Packages
   * Estensioni
 * Altri strumenti
-* 
+
 ## 2. .NET
 .NET è il framework per eseguire codice C#; è necessario installare lo SDK per poter compilarlo.
 
