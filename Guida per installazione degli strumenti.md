@@ -10,10 +10,10 @@
     - [3.2.2. Lingua](#322-lingua)
   - [3.3. Estensioni](#33-estensioni)
 - [4. Altro](#4-altro)
+  - [Programmi](#programmi)
   - [4.1. Estensioni per il browser](#41-estensioni-per-il-browser)
 ## 1. Introduzione
 
-In questa guida spiegherò come installare gli strumenti per lo sviluppo di C#.
 Strumenti che verranno installati:
 
 * .NET
@@ -21,7 +21,9 @@ Strumenti che verranno installati:
   * Packages
   * Estensioni
 * Altri strumenti
+* 
 ## 2. .NET
+.NET è il framework per eseguire codice C#; è necessario installare lo SDK per poter compilarlo.
 
 ### 2.1. Installazione
 
@@ -38,6 +40,7 @@ dotnet --list-sdks
 ![ ](images/cmd_list_dotnet_sdk.png)
 
 ## 3. Visual Studio
+Visual studio è l'IDE standard per la programmazione in C#.
 
 ### 3.1. Download
 
@@ -49,6 +52,9 @@ Scaricare dal link seguente l'ultima versione dell'installer di Visual Studio Co
 Aprire il file `VisualStudioSetup.exe` ed eseguire le istruzioni seguenti
 
 ### 3.2. Impostazioni Installer
+
+È importante selezionare i pacchetti giusti. È possibile in seguito all'installazione modificare i pacchetti installati cercado su start `Visual Studio Installer`.
+
 
 #### 3.2.1. Pacchetti
 
@@ -72,18 +78,32 @@ Selezionare lingua **Inglese**[^1] (English) e Italiano (opzionale)
 Lista di estensioni di Visual Studio da installare:
 
 [Blazor Extensions - Syncfusion ](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.BlazorVSExtension)
-: Estensione Blazor Per utilizzare i componenti SyncFusion Blazor.
+: Estensione Blazor per utilizzare i componenti SyncFusion Blazor.
 
 [Restart Visual Studio for vs2022 preview](https://marketplace.visualstudio.com/items?itemName=pedoc.RestartVisualStudioforvs2022preview)
-: Aggiunge `Restart Visual Studio` al menù _File_. Molto utile per risolvere velocemente problemi casuali causati da VS <sub>(potrebbero essere molti)</sub>.
+: Aggiunge `Restart Visual Studio` al menù _File_. Molto utile per risolvere velocemente alcuni problemi casuali causati da VS <sub>(potrebbero essere molti)</sub>.
 
 ## 4. Altro
 
+### Programmi
+
+Notepad++
+: Utile per visualizzare e modificare qualsiasi file di testo.
+
+Visual Studio Code
+: IDE molto versatile.
+
+Insomnia
+: Strumento di test REST API.
+
+
+
+
 ### 4.1. Estensioni per il browser
 
-FFS MSDN in English [Chrome](https://chrome.google.com/webstore/detail/ffs-msdn-in-english/ddaknggefjjgpnlhiejepbiplceedmfl)|[Firefox](https://addons.mozilla.org/en-US/firefox/addon/ffs-msdn-in-english/)
+FFS MSDN in English [Chrome](https://chrome.google.com/webstore/detail/ffs-msdn-in-english/ddaknggefjjgpnlhiejepbiplceedmfl) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ffs-msdn-in-english/)
 : Estensione per forzare la documentazione online di Microsoft in Inglese[^2].
 
-[^1]: L'inglese è **fortemente** consigliato poichè le traduzioni sono fatte attraverso traduttori automatici **veramente** poco affidabili.
+[^1]: L'inglese è **fortemente** consigliato poichè le traduzioni sono fatte attraverso traduttori automatici <ins>**veramente**</ins> poco affidabili.
 
 [^2]: Vedi sopra.
