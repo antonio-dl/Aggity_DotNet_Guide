@@ -12,6 +12,8 @@
 - [4. Altro](#4-altro)
   - [Programmi](#programmi)
   - [4.1. Estensioni per il browser](#41-estensioni-per-il-browser)
+
+
 ## 1. Introduzione
 
 Strumenti che verranno installati:
@@ -31,6 +33,7 @@ Scaricare ed installare l'ultima versione SDK di .NET
 [Microsoft .NET SDK Download](https://dotnet.microsoft.com/en-us/download)
 
 ![ ](images/dotnet_sdk_download.png)
+
 Controllare l'installazione da terminale eseguendo il comando
 
 ```batch
@@ -40,11 +43,13 @@ dotnet --list-sdks
 ![ ](images/cmd_list_dotnet_sdk.png)
 
 ## 3. Visual Studio
+
 Visual studio è l'IDE standard per la programmazione in C#.
 
 ### 3.1. Download
 
 Scaricare dal link seguente l'ultima versione dell'installer di Visual Studio Community Edition:
+
 [Visual Studio Community Installer Download](https://visualstudio.microsoft.com/it/downloads/)
 
 ![ ](images/visual_studio_download.png)
