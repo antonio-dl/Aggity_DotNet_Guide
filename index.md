@@ -16,18 +16,18 @@
   - [5.1. Programmi](#51-programmi)
   - [5.2. Estensioni per il browser](#52-estensioni-per-il-browser)
 
-
 ## 1. Introduzione
 
 Strumenti che verranno installati:
 
-* .NET
-* Visual Studio Community
-  * Packages
-  * Estensioni
-* Altri strumenti
+- .NET
+- Visual Studio Community
+  - Packages
+  - Estensioni
+- Altri strumenti
 
 ## 2. .NET
+
 .NET è il framework per eseguire codice C#; è necessario installare lo SDK per poter compilarlo.
 
 ### 2.1. Installazione
@@ -63,14 +63,13 @@ Aprire il file `VisualStudioSetup.exe` ed eseguire le istruzioni seguenti
 
 È importante selezionare i pacchetti giusti. È possibile in seguito all'installazione modificare i pacchetti installati cercado su start `Visual Studio Installer`.
 
-
 #### 3.2.1. Pacchetti
 
 Selezionare i seguenti pacchetti:
 
-* Sviluppo ASP.NET e Web
-* Sviluppo per Desktop .NET
-* Elaborazione ed archiviazione dati
+- Sviluppo ASP.NET e Web
+- Sviluppo per Desktop .NET
+- Elaborazione ed archiviazione dati
 
 ![ ](images/pacchetti_installer_vs1.png)
 
@@ -78,15 +77,15 @@ Selezionare i seguenti pacchetti:
 
 #### 3.2.2. Lingua
 
-Selezionare lingua **Inglese**[^1] (English) e Italiano (opzionale)
+Selezionare lingua --Inglese--[^1] (English) e Italiano (opzionale)
 
-![](images/lingua_installer_vs.png)
+![ ](images/lingua_installer_vs.png)
 
 ### 3.3. Estensioni
 
 Lista di estensioni di Visual Studio da installare:
 
-[Blazor Extensions - Syncfusion ](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.BlazorVSExtension)
+[Blazor Extensions - Syncfusion](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.BlazorVSExtension)
 : Estensione Blazor per utilizzare i componenti SyncFusion Blazor.
 
 [Restart Visual Studio for vs2022 preview](https://marketplace.visualstudio.com/items?itemName=pedoc.RestartVisualStudioforvs2022preview)
@@ -94,11 +93,9 @@ Lista di estensioni di Visual Studio da installare:
 
 ## 4. Git & Git
 
-
   Git è un software VCS (Version Control System) locale che permette agli sviluppatori di salvare istantanee dei loro progetti nel tempo. In genere è meglio per l’uso individuale.
 
   GitHub è una piattaforma web che incorpora le funzionalità di controllo di versione di git e quindi può essere usata in modo collaborativo. Include anche funzioni di gestione di progetto e del team, oltre a opportunità di networking e di social coding.
-
 
 ### 4.1. Download & Link
 
@@ -120,7 +117,6 @@ Notepad++
 : Utile per visualizzare e modificare qualsiasi file di testo.
 [Download](https://notepad-plus-plus.org/downloads/)
 
-
 Visual Studio Code
 : IDE molto versatile ed estendibile.
 [Download](https://code.visualstudio.com/)
@@ -129,15 +125,12 @@ Insomnia
 : Strumento di test REST API.
 [Download](https://insomnia.rest/download)
 
-
-
-
 ### 5.2. Estensioni per il browser
 
 FFS MSDN in English [Chrome](https://chrome.google.com/webstore/detail/ffs-msdn-in-english/ddaknggefjjgpnlhiejepbiplceedmfl) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ffs-msdn-in-english/)
 : Estensione per forzare la documentazione online di Microsoft in Inglese[^2].
 
 ----
-[^1]: L'inglese è **fortemente** consigliato poichè le traduzioni sono fatte attraverso traduttori automatici <ins>**veramente**</ins> poco affidabili.
+[^1]: L'inglese è --fortemente-- consigliato poichè le traduzioni sono fatte attraverso traduttori automatici <ins>--veramente--</ins> poco affidabili.
 
 [^2]: Vedi sopra.
