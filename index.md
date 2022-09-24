@@ -9,9 +9,12 @@
     - [3.2.1. Pacchetti](#321-pacchetti)
     - [3.2.2. Lingua](#322-lingua)
   - [3.3. Estensioni](#33-estensioni)
-- [4. Altro](#4-altro)
-  - [Programmi](#programmi)
-  - [4.1. Estensioni per il browser](#41-estensioni-per-il-browser)
+- [4. Git & Git](#4-git--git)
+  - [4.1. Download & Link](#41-download--link)
+  - [4.2. Installazione Git](#42-installazione-git)
+- [5. Altro](#5-altro)
+  - [5.1. Programmi](#51-programmi)
+  - [5.2. Estensioni per il browser](#52-estensioni-per-il-browser)
 
 
 ## 1. Introduzione
@@ -89,23 +92,47 @@ Lista di estensioni di Visual Studio da installare:
 [Restart Visual Studio for vs2022 preview](https://marketplace.visualstudio.com/items?itemName=pedoc.RestartVisualStudioforvs2022preview)
 : Aggiunge `Restart Visual Studio` al menù _File_. Molto utile per risolvere velocemente alcuni problemi casuali causati da VS <sub>(potrebbero essere molti)</sub>.
 
-## 4. Altro
+## 4. Git & Git
 
-### Programmi
+
+  Git è un software VCS (Version Control System) locale che permette agli sviluppatori di salvare istantanee dei loro progetti nel tempo. In genere è meglio per l’uso individuale.
+
+  GitHub è una piattaforma web che incorpora le funzionalità di controllo di versione di git e quindi può essere usata in modo collaborativo. Include anche funzioni di gestione di progetto e del team, oltre a opportunità di networking e di social coding.
+
+
+### 4.1. Download & Link
+
+[Git Download](https://git-scm.com/downloads)
+
+[Git Documentation](https://git-scm.com/doc)
+
+[GitHub](https://github.com)
+
+### 4.2. Installazione Git
+
+👷‍♂️ _Work In Progress_ 👷‍♂️
+
+## 5. Altro
+
+### 5.1. Programmi
 
 Notepad++
 : Utile per visualizzare e modificare qualsiasi file di testo.
+[Download](https://notepad-plus-plus.org/downloads/)
+
 
 Visual Studio Code
-: IDE molto versatile.
+: IDE molto versatile ed estendibile.
+[Download](https://code.visualstudio.com/)
 
 Insomnia
 : Strumento di test REST API.
+[Download](https://insomnia.rest/download)
 
 
 
 
-### 4.1. Estensioni per il browser
+### 5.2. Estensioni per il browser
 
 FFS MSDN in English [Chrome](https://chrome.google.com/webstore/detail/ffs-msdn-in-english/ddaknggefjjgpnlhiejepbiplceedmfl) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ffs-msdn-in-english/)
 : Estensione per forzare la documentazione online di Microsoft in Inglese[^2].
