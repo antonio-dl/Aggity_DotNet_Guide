@@ -70,6 +70,7 @@ Selezionare i seguenti pacchetti:
 * Elaborazione ed archiviazione dati
 
 ![ ](images/pacchetti_installer_vs1.png)
+
 ![ ](images/pacchetti_installer_vs2.png)
 
 #### 3.2.2. Lingua
