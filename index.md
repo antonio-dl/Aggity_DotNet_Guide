@@ -109,6 +109,7 @@ Insomnia
 FFS MSDN in English [Chrome](https://chrome.google.com/webstore/detail/ffs-msdn-in-english/ddaknggefjjgpnlhiejepbiplceedmfl) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ffs-msdn-in-english/)
 : Estensione per forzare la documentazione online di Microsoft in Inglese[^2].
 
+----
 [^1]: L'inglese è **fortemente** consigliato poichè le traduzioni sono fatte attraverso traduttori automatici <ins>**veramente**</ins> poco affidabili.
 
 [^2]: Vedi sopra.
