@@ -77,7 +77,7 @@ Selezionare i seguenti pacchetti:
 
 #### 3.2.2. Lingua
 
-Selezionare lingua --Inglese--[^1] (English) e Italiano (opzionale)
+Selezionare lingua **Inglese**[^1] (English) e Italiano (opzionale)
 
 ![ ](images/lingua_installer_vs.png)
 
@@ -131,6 +131,6 @@ FFS MSDN in English [Chrome](https://chrome.google.com/webstore/detail/ffs-msdn-
 : Estensione per forzare la documentazione online di Microsoft in Inglese[^2].
 
 ----
-[^1]: L'inglese è --fortemente-- consigliato poichè le traduzioni sono fatte attraverso traduttori automatici <ins>--veramente--</ins> poco affidabili.
+[^1]: L'inglese è **fortemente** consigliato poichè le traduzioni sono fatte attraverso traduttori automatici <ins>**veramente**</ins> poco affidabili.
 
 [^2]: Vedi sopra.
